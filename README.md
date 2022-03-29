@@ -1,3 +1,3 @@
 # scaleai
 
-Quality checks 
+Quality checks at result.json.
