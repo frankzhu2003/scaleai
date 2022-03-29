@@ -1,0 +1,3 @@
+# scaleai
+
+Quality checks
